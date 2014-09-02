@@ -1,0 +1,37 @@
+{
+    "maxerr": 1000,
+
+    "indent": 4,
+    "maxparams": 5,
+    "maxdepth": 3,
+    "maxstatements": 30,
+    "maxcomplexity": 10,
+
+    "globals": {
+        "suumo": true,
+        "alert": false
+    },
+    "browser": true,
+    "jquery": true,
+
+    "bitwise": true,
+    "camelcase": false,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonew": true,
+    "plusplus": false,
+    "quotmark": false,
+    "undef": true,
+    "unused": true,
+    "strict": false,
+    "trailing": true,
+
+    "eqnull": true,
+    "lastsemic": true
+}
