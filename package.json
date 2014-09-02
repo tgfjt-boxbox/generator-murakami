@@ -2,13 +2,12 @@
   "name": "generator-murakami",
   "version": "0.0.0",
   "description": "Yeoman generator",
-  "license": "MIT",
   "main": "app/index.js",
-  "repository": "tgfjt/generator-murakami",
+  "repository": "tgfjt-boxbox/generator-murakami",
   "author": {
-    "name": "Takashi Fujita",
+    "name": "tgfjt",
     "email": "",
-    "url": "https://github.com/tgfjt"
+    "url": "https://github.com/tgfjt-boxbox"
   },
   "engines": {
     "node": ">=0.10.0"

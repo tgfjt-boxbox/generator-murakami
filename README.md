@@ -1,4 +1,4 @@
-# generator-murakami [![Build Status](https://secure.travis-ci.org/tgfjt/generator-murakami.png?branch=master)](https://travis-ci.org/tgfjt/generator-murakami)
+# generator-murakami [![Build Status](https://secure.travis-ci.org/tgfjt-boxbox/generator-murakami.png?branch=master)](https://travis-ci.org/tgfjt-boxbox/generator-murakami)
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -14,7 +14,7 @@ npm install -g yo
 To install generator-murakami from npm, run:
 
 ```bash
-npm install -g tgfjt/generator-murakami
+npm install -g tgfjt-boxbox/generator-murakami
 ```
 
 ## Usage
@@ -22,4 +22,3 @@ npm install -g tgfjt/generator-murakami
 ```bash
 yo murakami
 ```
-`
